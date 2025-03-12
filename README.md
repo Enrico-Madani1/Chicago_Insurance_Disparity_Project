@@ -14,5 +14,3 @@ The study is geographically focused on Chicago and utilizes community area-level
 - `ACSST5Y{year}.csv` files (with year being 2015-2023, so there are 9 files containing the percent of different public insurance coverages in Chicago)
 - `Employment_Insurance_Chicago_Health_Atlas.csv` (Percent of employment-based health insurance coverage in Chicago from 2015-2023)
 - `Public_assistance_income_Chicago_Health_Atlas.csv` (Percent of households reporting public assistance income from 2015-2023)
-
-The source of each dataset and how to acquire them are stated later in the code below
